@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;500&display=swap');
+
+$font-size : 1rem;
+$font-style:'Noto Sans TC', sans-serif;
+$line-height:1.8;
+$letter-spacing:1.5px;
+$color : #333;
+$bg-color:(
+    'blue': #0059ff,
+    'yellow' : #ffd900,
+    'green' :#73ff00,
+); //map數值
+
+$null :null;
+
+$font-title: 50px;
+$font-blog-title: 20px;
+$font-blog-content: 16px;
+$font-blog-btn: 15px;
+$font-blog-btn--bcolor: rgb(255, 136, 136);
